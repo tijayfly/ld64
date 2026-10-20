@@ -1,3 +1,4 @@
-# ld64
+# Launch Director 64
 
-WIP retro game. Play in a browser; Xbox controller or keyboard.
+Web version. Play in a browser with Xbox controller or keyboard.
+
